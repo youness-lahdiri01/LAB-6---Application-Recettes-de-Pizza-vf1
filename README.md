@@ -32,11 +32,16 @@ L'utilisateur peut cliquer sur une pizza pour afficher les détails complets : i
 ### 🔹 1️⃣ Splash Screen
 
 
-<img width="471" height="776" alt="Screenshot 2026-02-21 214709" src="https://github.com/user-attachments/assets/c4a9ae6c-0095-400e-854f-fece43059702" />
+<img width="461" height="853" alt="Screenshot 2026-02-21 220836" src="https://github.com/user-attachments/assets/bf08c6b3-a7f8-4431-b107-78d4b9a3dae4" />
 
 -----
 
-<img width="428" height="728" alt="Screenshot 2026-02-21 214717" src="https://github.com/user-attachments/assets/94d3c64d-098c-4535-b933-2c77fbe61d53" />
+<img width="499" height="885" alt="Screenshot 2026-02-21 220840" src="https://github.com/user-attachments/assets/abb38675-aa31-4bf5-8c0c-c33a1fe34800" />
+
+----
+<img width="414" height="761" alt="Screenshot 2026-02-21 220847" src="https://github.com/user-attachments/assets/7f0b9690-7fdf-49c0-980d-9c9396d8d7cf" />
+
+
 
 ## Structure du projet
 app/
